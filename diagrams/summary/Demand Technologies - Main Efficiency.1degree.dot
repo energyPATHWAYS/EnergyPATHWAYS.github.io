@@ -1,0 +1,43 @@
+// dot 2.38.0 on Windows 10 10.0
+// SchemaSpy rev 590
+digraph "Demand Technologies - Main Efficiency" {
+  graph [
+    rankdir="RL"
+    bgcolor="#f7f7f7"
+    nodesep="0.18"
+    ranksep="0.46"
+    fontname="Helvetica"
+    fontsize="11"
+  ];
+  node [
+    fontname="Helvetica"
+    fontsize="11"
+    shape="plaintext"
+  ];
+  edge [
+    arrowsize="0.8"
+  ];
+  "Demand Technologies - Main Efficiency" [
+    label=<
+    <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="#ffffff">
+      <TR><TD COLSPAN="3" BGCOLOR="#9bab96" ALIGN="CENTER">Demand Technologies - Main Efficiency</TD></TR>
+      <TR><TD PORT="name" COLSPAN="3" ALIGN="LEFT">name</TD></TR>
+      <TR><TD PORT="Geography Unit" COLSPAN="3" ALIGN="LEFT">Geography Unit</TD></TR>
+      <TR><TD PORT="Geography" COLSPAN="3" ALIGN="LEFT">Geography</TD></TR>
+      <TR><TD PORT="unit" COLSPAN="3" ALIGN="LEFT">unit</TD></TR>
+      <TR><TD PORT="time_unit" COLSPAN="3" ALIGN="LEFT">time_unit</TD></TR>
+      <TR><TD PORT="vintage" COLSPAN="3" ALIGN="LEFT">vintage</TD></TR>
+      <TR><TD PORT="value" COLSPAN="3" ALIGN="LEFT">value</TD></TR>
+      <TR><TD PORT="Other Index" COLSPAN="3" ALIGN="LEFT">Other Index</TD></TR>
+      <TR><TD PORT="Subsector" COLSPAN="3" ALIGN="LEFT">Subsector</TD></TR>
+      <TR><TD PORT="Sector" COLSPAN="3" ALIGN="LEFT">Sector</TD></TR>
+      <TR><TD PORT="is_numerator_service" COLSPAN="3" ALIGN="LEFT">is_numerator_service</TD></TR>
+      <TR><TD PORT="numerator_unit" COLSPAN="3" ALIGN="LEFT">numerator_unit</TD></TR>
+      <TR><TD PORT="denominator_unit" COLSPAN="3" ALIGN="LEFT">denominator_unit</TD></TR>
+      <TR><TD PORT="Final Energy" COLSPAN="3" ALIGN="LEFT">Final Energy</TD></TR>
+      <TR><TD ALIGN="LEFT" BGCOLOR="#f7f7f7">  </TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">view</TD><TD ALIGN="RIGHT" BGCOLOR="#f7f7f7">  </TD></TR>
+    </TABLE>>
+    URL="tables/Demand Technologies - Main Efficiency.html"
+    tooltip="Demand Technologies - Main Efficiency"
+  ];
+}
